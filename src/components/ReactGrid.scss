@@ -1,0 +1,16 @@
+.grid-container {
+  .table-responsive {
+    padding-bottom: 20px;
+    table {
+      span {
+        margin: auto;
+      }
+    }
+  }
+}
+.clearfix > div {
+  float: left;
+}
+.clearfix > div::after {
+  content: "Rows per page";
+}
