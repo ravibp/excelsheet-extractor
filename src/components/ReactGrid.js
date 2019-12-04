@@ -29,8 +29,10 @@ export default props => {
       <Table.Row
         {...restProps}
         // eslint-disable-next-line no-alert
-        onClick={() => {
-          props.showEmployeeInfo(true, row.id);
+        onClick={e => {
+          if (window.confirm(`View details of Employee '${row.first_name}'?`)) {
+            props.showEmployeeInfo(true, row.id);
+          }
         }}
         style={{
           cursor: "pointer"

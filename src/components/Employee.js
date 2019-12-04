@@ -24,21 +24,23 @@ class Employee extends Component {
     const { employee } = this.state;
     return (
       <div>
-        <button className="mb-3" onClick={this.routeToMainPage}>Go to employee dashboard</button>
+        <button className="mb-3" onClick={this.routeToMainPage}>
+          Go to employee dashboard
+        </button>
         <h3>Details of Employee - {employee.first_name}</h3>
-        <table class="table">
+        <table className="table">
           <Fragment>
             <thead>
               <tr>
-                {Object.entries(employee).map(([key, value]) => (
-                  <th>{key.toUpperCase()}</th>
+                {Object.entries(employee).map(([key]) => (
+                  <th key={key}>{key.toUpperCase()}</th>
                 ))}
               </tr>
             </thead>
             <tbody>
               <tr>
                 {Object.entries(employee).map(([key, value]) => (
-                  <td>{value.toString()}</td>
+                  <td key={key}>{value.toString()}</td>
                 ))}
               </tr>
             </tbody>

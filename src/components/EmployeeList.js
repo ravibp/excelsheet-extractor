@@ -62,7 +62,7 @@ export default class EmployeeDetails extends Component {
     
     return (
       <div className="employee-container row no-gutters">
-        <h2 className="col-12">Import an Excel File to proceeddd</h2>
+        <h2 className="col-12">Import an Excel File to proceed</h2>
         <div className="col-12 import-btn">
           <input
             id="file-input"
