@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-assignment/static/css/main.16921805.chunk.css",
-    "main.js": "/react-assignment/static/js/main.3b4fa356.chunk.js",
-    "main.js.map": "/react-assignment/static/js/main.3b4fa356.chunk.js.map",
-    "runtime-main.js": "/react-assignment/static/js/runtime-main.329e22af.js",
-    "runtime-main.js.map": "/react-assignment/static/js/runtime-main.329e22af.js.map",
-    "static/css/2.64a99b10.chunk.css": "/react-assignment/static/css/2.64a99b10.chunk.css",
-    "static/js/2.04244b56.chunk.js": "/react-assignment/static/js/2.04244b56.chunk.js",
-    "static/js/2.04244b56.chunk.js.map": "/react-assignment/static/js/2.04244b56.chunk.js.map",
-    "index.html": "/react-assignment/index.html",
-    "precache-manifest.ab307f16e7b1d727e264e84b7e53d761.js": "/react-assignment/precache-manifest.ab307f16e7b1d727e264e84b7e53d761.js",
-    "service-worker.js": "/react-assignment/service-worker.js",
-    "static/css/2.64a99b10.chunk.css.map": "/react-assignment/static/css/2.64a99b10.chunk.css.map",
-    "static/css/main.16921805.chunk.css.map": "/react-assignment/static/css/main.16921805.chunk.css.map"
+    "main.css": "/excelsheet-extractor/static/css/main.16921805.chunk.css",
+    "main.js": "/excelsheet-extractor/static/js/main.ceba2d04.chunk.js",
+    "main.js.map": "/excelsheet-extractor/static/js/main.ceba2d04.chunk.js.map",
+    "runtime-main.js": "/excelsheet-extractor/static/js/runtime-main.39c37ccc.js",
+    "runtime-main.js.map": "/excelsheet-extractor/static/js/runtime-main.39c37ccc.js.map",
+    "static/css/2.64a99b10.chunk.css": "/excelsheet-extractor/static/css/2.64a99b10.chunk.css",
+    "static/js/2.04244b56.chunk.js": "/excelsheet-extractor/static/js/2.04244b56.chunk.js",
+    "static/js/2.04244b56.chunk.js.map": "/excelsheet-extractor/static/js/2.04244b56.chunk.js.map",
+    "index.html": "/excelsheet-extractor/index.html",
+    "precache-manifest.0535be534b2cb8b68b24fff67f5dcc61.js": "/excelsheet-extractor/precache-manifest.0535be534b2cb8b68b24fff67f5dcc61.js",
+    "service-worker.js": "/excelsheet-extractor/service-worker.js",
+    "static/css/2.64a99b10.chunk.css.map": "/excelsheet-extractor/static/css/2.64a99b10.chunk.css.map",
+    "static/css/main.16921805.chunk.css.map": "/excelsheet-extractor/static/css/main.16921805.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.329e22af.js",
+    "static/js/runtime-main.39c37ccc.js",
     "static/css/2.64a99b10.chunk.css",
     "static/js/2.04244b56.chunk.js",
     "static/css/main.16921805.chunk.css",
-    "static/js/main.3b4fa356.chunk.js"
+    "static/js/main.ceba2d04.chunk.js"
   ]
 }
